@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Minhaj15 (Minhaj Mohd)
 - 👀 I’m interested in learning about software test automation(Web/API/Mobile)
-- 🌱 I’m currently learning Cypress UI Automation Tool
+- 🌱 I’m currently learning Playwright UI Automation Tool
 - 💞️ I’m looking to collaborate on projects related to selenium with c# and playwright with javascript/typescript
 - 📫 How to reach me at twitter @MinhajMohd19
 
